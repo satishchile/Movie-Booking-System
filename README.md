@@ -16,7 +16,7 @@ The project objective is to book cinema tickets in online. This online ticket re
 
  # Registering New User
   ![Screenshot (3050)](https://github.com/satishchile/Movie-Booking-System/assets/124240024/6d1facfb-e6ac-4cda-a1df-6c752edb16df)
-#Making Chages In DataBase
+# Making Chages In DataBase
 ![Screenshot (3051)](https://github.com/satishchile/Movie-Booking-System/assets/124240024/ed6c1472-3613-46f9-9d4d-b59ce5da9658)
 ![Screenshot (3052)](https://github.com/satishchile/Movie-Booking-System/assets/124240024/696edff2-4e2c-4eae-8ab6-8f25aec1e6c4)
 
