@@ -28,7 +28,7 @@ The project objective is to book cinema tickets in online. This online ticket re
 
 # Now User Select RRR Movie
 ![Screenshot (3055)](https://github.com/satishchile/Movie-Booking-System/assets/124240024/d49e2122-4319-43af-ac29-455a08962f78)
-#User Further Select Favourite Food Item
+# User Further Select Favourite Food Item
 ![Screenshot (3057)](https://github.com/satishchile/Movie-Booking-System/assets/124240024/47c24e84-b007-4d91-8193-f0801bc40816)
 
 # Successful TicketBooked
